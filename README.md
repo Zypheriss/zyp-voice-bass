@@ -5,7 +5,7 @@
  # Önemli
  **bass seviyesini aşırı derecede açarsanız Mikrofonunuza zarar gelebilir hele ki trendyolda satılan 400-500 tl lik mikrofon ise zarar verir**
 
-#Discord _zypheris
+# Discord _zypheris
 
 **herhangi bir sorunda falan discord adresimden ulaşabilirsiniz**
 
