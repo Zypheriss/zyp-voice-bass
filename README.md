@@ -1,3 +1,6 @@
+# Kodda hata vardır en yakın sürede Hatayı fixleyip paylaşıcam 25.04.2025
+
+
  **Merhaba dostum adı üstünde bass programı Bu bass ile discordda Sövüşlere katılıp ortalığın içinden geçebilirsin**
 
  **bu v1 sürümüdür v2 sürümü yaklaşık 3 bin satırlık bir koddur daha da geliştiriyorum v2 bitince paylaşılacaktır**
